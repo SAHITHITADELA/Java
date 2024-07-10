@@ -1,5 +1,5 @@
 public class sum of numbers {
-    public static void main(string[] args){
+    public static void main(String[] args){
 int n1=12,n2=13,sum;
 sum=n1+n2;
 System.out.println("the sum of the numbers is :",+sum);
